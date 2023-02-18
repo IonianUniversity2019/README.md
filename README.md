@@ -1,9 +1,9 @@
 # IonianUniversity2019
 Our Team
 
-Όνομα ομάδας: IonianUniverity2019
+Όνομα ομάδας: Suicide squad
 
-GitHub organisation url: [IonianUniversity2019](https://github.com/IonianUniversity2019)
+GitHub organisation url: [Suicide squad](https://github.com/IonianUniversity2019)
 
 Νέα μέλη δεκτά: ΟΧΙ
 
