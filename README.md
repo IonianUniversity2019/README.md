@@ -17,5 +17,5 @@ GitHub organisation url: [Suicide squad](https://github.com/IonianUniversity2019
 | 6 | 2019086 | [Chris livas]()|
 | 7 | 2018198 | [eliastks09](https://github.com/eliastks09)|
 | 8 | 2019223 | [PetroulaStylianiou](https://github.com/PetroulaStylianou)|
-| 9 | 2019223 | [Despoina Komodiki](https://github.com/PetroulaStylianou)|
+| 9 | Π2018205 | [despina-komo](https://github.com/despina-komo?fbclid=IwAR2NVzmKOywOq_Rqugtn1U2ij6GU2DLYjYwROFc8iJHhv8FIQmFftgecnbo)|
 | 10 | 2019223 | [Xaris Sarakatsanis](https://github.com/PetroulaStylianou)|
