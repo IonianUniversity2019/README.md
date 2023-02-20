@@ -1,4 +1,4 @@
-# Suicide Squad
+# IonianUniversity2019/Suicide Squad
 Our Team
 
 Όνομα ομάδας: Suicide squad
