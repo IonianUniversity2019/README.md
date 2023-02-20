@@ -5,7 +5,7 @@ Our Team
 
 GitHub organisation url: [Suicide squad](https://github.com/IonianUniversity2019)
 
-Νέα μέλη δεκτά: ΟΧΙ
+Νέα μέλη δεκτά: NAI
 
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
